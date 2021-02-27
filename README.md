@@ -6,7 +6,7 @@ The `Parser` module is the standard approach for parsing games. The user needs t
 
 Here is a simple example of the format that the payoff function should output, where Player 1 has actions {1,2} and Player 2 has actions {1,2}:
 
-	[[2,-2], [1,-1], [-1,1],[-2,2],[1,-1],[-1,1]]
+	[[2,-2],[1,-1],[-1,1],[-2,2],[1,-1],[-1,1]]
 
 For the first list, we can interpret this as "Player 1 chose 1 and received a payoff of 2, Player 2 chose 1 and received a payoff of -2".
 
