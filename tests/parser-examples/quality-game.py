@@ -1,11 +1,11 @@
 #parsed example 	
-import gambitparsed
+import gambitparser
 import argparse 
 
 #add arguments to use in the command line
 # --num_moves X --num_players Y --title Z
 def argparser():
-    parsed = argparse.Argumentparsed()
+    parsed = argparse.ArgumentParser()
     parsed.add_argument("--num_moves", help="the number of moves in the game", default = 2)
     parsed.add_argument("--num_players", help="the number of players in the game", default =2)
     parsed.add_argument("--title",help = "the title of the game", default="Game")
