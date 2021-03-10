@@ -24,7 +24,7 @@ Here is a simple example:
 	3,2:20,20
 	3,3:50/3,50/3
 
-We can interpret the first line as "Player 1 chose 1, Player 2 chose 1 : Player 1 had a payoff of 50/3, Player 2 had a payoff of 50/3". To read more about the documentation, visit the [docs](https://github.com/baileymorton989/gambitparser/tree/main/docs) folder.
+We can interpret the first line as "Player 1 chose 1, Player 2 chose 1 : Player 1 had a payoff of 50/3, Player 2 had a payoff of 50/3". To read more about the documentation, visit the [src](https://github.com/baileymorton989/gambitparser_private/tree/master/src) folder.
 
 ## Installation
 
