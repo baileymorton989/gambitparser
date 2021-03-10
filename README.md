@@ -126,7 +126,7 @@ $python2 gambitparser-example.py
 ```
 
 ## Operating System
-This package was developed using Ubunutu and we have not tested it using other operating systems. We recommend building Gambit on a Linux machine with >=Ubuntu 16.04. More information on building and working with gambit can be found on gambit's [build](http://www.gambit-project.org/gambit16/16.0.0/build.html) page.
+This package was developed using Ubuntu and we have not tested it using other operating systems. We recommend building Gambit on a Linux machine with >=Ubuntu 16.04. More information on building and working with Gambit can be found on their [build](http://www.gambit-project.org/gambit16/16.0.0/build.html) page.
 
 ## Contributing
 We are open to pull requests and look forward to expanding this library further to tackle more complex games. Please open an issue to discuss any changes or improvements.
