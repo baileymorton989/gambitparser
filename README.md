@@ -37,7 +37,7 @@ pip install gambitparser
 For now you can simply clone the repo and run the following:
 
 ```bash
-$pip install -e .
+pip install -e .
 ```
 
 ## Usage
@@ -128,7 +128,7 @@ if __name__ == '__main__':
 These examples and other can be found in the [test](https://github.com/baileymorton989/gambitparser_private/tree/master/tests) folder. Currently, [gambit](https://gambitproject.readthedocs.io/en/latest/pyapi.html) only supports Python 2 environments, so all scripts which `gambitparser` must be run in the following way:
 
 ```bash
-$python2 gambitparser-example.py
+python2 gambitparser-example.py
 ```
 
 ## Operating System
@@ -139,7 +139,7 @@ We are open to pull requests and look forward to expanding this library further 
 To install `gambitparser`, along with the tools you need to develop and run tests, run the following in your virtualenv:
 
 ```bash
-$pip install -e .[dev]
+pip install -e .[dev]
 ```
 
 ## License
