@@ -28,13 +28,13 @@ We can interpret the first line as "Player 1 chose 1, Player 2 chose 1 : Player 
 
 ## Installation
 
-Installation will soon be made simple by using [pip](https://pip.pypa.io/en/stable/)
+Installation is simple by using [pip](https://pip.pypa.io/en/stable/)
 
 ```bash
 pip install gambitparser
 ```
 
-For now you can simply clone the repo and run the following:
+You can also simply clone the repo and run the following:
 
 ```bash
 pip install -e .
