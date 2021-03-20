@@ -119,7 +119,7 @@ if __name__ == '__main__':
     payoffparser.parse()
 ```
 
-These examples and other can be found in the [test](https://github.com/baileymorton989/gambitparser_private/tree/master/tests) folder. Currently, [gambit](https://gambitproject.readthedocs.io/en/latest/pyapi.html) only supports Python 2 environments, so all scripts which `gambitparser` must be run in the following way:
+These examples and other can be found in the [test](https://github.com/baileymorton989/gambitparser_private/tree/master/tests) folder. Currently, [gambit](https://gambitproject.readthedocs.io/en/latest/pyapi.html) only supports Python 2 environments, so all scripts with `gambitparser` must be run in the following way:
 
 ```bash
 python2 gambitparser-example.py
